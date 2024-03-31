@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* HEADER 1 */
+.header1 {
+  background-color: rgb(255, 255, 255);
+  height: 50vh;
+}
+.header1-empty {
+  background-color: rgb(0, 0, 0);
+  height: 40px;
+  color: green;
+  position: sticky;
+  top: 0;
+}
+/* HEADER 2 */
+.header2 {
+  background-color: rgb(255, 255, 255);
+  height: 50vh;
+}
+.header2-empty {
+  background-color: rgb(0, 0, 0);
+  height: 40px;
+  color: green;
+  position: sticky;
+  top: 0;
+}
+/* HEADER 3 */
+.header3 {
+  background-color: rgb(255, 255, 255);
+  height: 50vh;
+}
+.header3-empty {
+  background-color: rgb(0, 0, 0);
+  height: 40px;
+  color: green;
+  position: sticky;
+  top: 0;
+}
+/* HEADER 4 */
+.header4 {
+  background-color: rgb(255, 255, 255);
+  height: 100vh;
+}
+.header4-empty {
+  background-color: rgb(0, 0, 0);
+  height: 40px;
+  color: green;
+}
